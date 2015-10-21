@@ -114,6 +114,7 @@ brew cask install logitech-options
 brew cask install vagrant
 brew cask install sourcetree
 brew cask install virtualbox
+brew cask install iterm2
 
 # Remove outdated versions from the cellar.
 brew cleanup
