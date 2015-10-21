@@ -100,5 +100,20 @@ brew install tree
 brew install webkit2png
 brew install zopfli
 
+# docker
+brew install docker
+brew install docker-machine
+brew install docker-compose
+
+
+# casks
+brew install cask
+brew cask install alfred
+brew cask install keepassx
+brew cask install logitech-options
+brew cask install vagrant
+brew cask install sourcetree
+brew cask install virtualbox
+
 # Remove outdated versions from the cellar.
 brew cleanup
